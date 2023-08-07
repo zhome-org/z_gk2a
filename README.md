@@ -11,6 +11,7 @@ code/zmakegif.py
 code/zgiftomp4.py
 
 ## 依赖
+python
 Pillow
 imageio
 moviepy
